@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Leonardo Ramazzotti
-    tagline: "Engineering Student\_ \_ \_ \_ \_                           Swimming Coach"
+    tagline: Engineering Student
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
     background: dark
