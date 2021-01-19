@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Stackbit Fresh
-    tagline: "Engineering Student\_ \_ \_ \_ \_ \_ \_ \_ Swimming Coach"
+    tagline: "Engineering Student\_ \_ \_ \_ \_ Swimming Coach"
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
     background: dark
